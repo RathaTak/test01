@@ -4,3 +4,5 @@ Public int add(int a, int b) {
 // retour valeur
 return a +b;
 }
+
+private int value = "";
