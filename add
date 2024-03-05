@@ -6,3 +6,6 @@ return a +b;
 }
 
 private int value = "";
+public void setValue(int val) {
+value = val;
+}
