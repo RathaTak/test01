@@ -5,6 +5,7 @@ Public int add(int a, int b) {
 return a +b;
 }
 
+// Set value
 private int value = "";
 public void setValue(int val) {
 value = val;
