@@ -5,8 +5,14 @@ Public int add(int a, int b) {
 return a +b;
 }
 
-// Set value
-private int value = "";
-public void setValue(int val) {
-value = val;
+// Set value 1
+private int value1 = "";
+public void setValue1(int val) {
+value1 = val;
+}
+
+// Set value 2
+private int value2 = "";
+public void setValue2(int val) {
+value2 = val;
 }
