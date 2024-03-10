@@ -5,3 +5,11 @@ int a = 1;
 int b = 2;
 int res = a + b;
 }
+
+// Add3
+public void add3() {
+// display add3
+int a = 1;
+int b = 2;
+int res = a + b;
+}
