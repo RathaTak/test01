@@ -1,7 +1,7 @@
 // add
-Public int add(int a, int b) {
+Public int add(int a, int b,  int c) {
 // retour valeur
-return a +b;
+return a + b + c;
 }
 
 // Set value 1
