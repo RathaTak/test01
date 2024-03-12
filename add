@@ -21,3 +21,6 @@ private int value3 = "";
 public void setValue3(int val) {
 value3 = val;
 }
+
+Public int retourneValeur() {
+}
