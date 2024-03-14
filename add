@@ -22,6 +22,7 @@ public void setValue3(int val) {
 value3 = val;
 }
 
+// calcul valeur
 Public int retourneValeur() {
 int res = setValue1(1) + setValue2(2) + setValue3(3)
 }
