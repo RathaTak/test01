@@ -1,3 +1,11 @@
+// Add1
+public void add1() {
+// display add1
+int a = 1;
+int b = 2;
+int res = a + b;
+}
+
 // Add2
 public void add2() {
 // display add2
