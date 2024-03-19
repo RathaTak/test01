@@ -16,14 +16,8 @@ public void setValue2(int val) {
 value2 = val;
 }
 
-// Set value 3
-private int value3 = "";
-public void setValue3(int val) {
-value3 = val;
-}
-
 // calculer valeur et retourner valeur
 Public int retourneValeur() {
-int res = setValue1(1) + setValue2(2) + setValue3(3)
+int res = setValue1(1) + setValue2(2);
 return res;
 }
