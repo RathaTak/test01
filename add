@@ -1,7 +1,7 @@
 // add
 Public int add(int a, int b,  int c) {
 // retour valeur
-return a + b + c;
+return retourneValeur();
 }
 
 // Set value 1
