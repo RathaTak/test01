@@ -16,7 +16,7 @@ public void setValue2(int val) {
 value2 = val;
 }
 
-// calculer valeur et retourner valeur
+// calculer valeur et retourner valeur.
 Public int retourneValeur() {
 int res = setValue1(1) + setValue2(2);
 return res;
