@@ -21,3 +21,5 @@ Public int retourneValeur() {
 int res = setValue1(1) + setValue2(2);
 return res;
 }
+
+
