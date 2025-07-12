@@ -22,4 +22,10 @@ int res = setValue1(1) + setValue2(2);
 return res;
 }
 
+// calculer valeur et retourner valeur 2.
+Public int retourneValeur2() {
+int res = setValue1(1) + setValue2(2);
+return res;
+}
+
 
